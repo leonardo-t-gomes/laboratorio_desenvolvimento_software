@@ -1,3 +1,4 @@
+`````sql
 CREATE DATABASE escola;
 
 CREATE TABLE alunos(
@@ -90,4 +91,4 @@ VALUES
 ('Mary','F','Inglês');
 
 Select * from pessoa;
-
+````
